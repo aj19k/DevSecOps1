@@ -1,6 +1,0 @@
-
----
-- name: RUnning demo test
-  hosts: all
-  - debug:
-      msg: "ran successfully "
